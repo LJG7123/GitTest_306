@@ -8,6 +8,6 @@ public class GoodsController {
     }
 
     public void selectAll() {
-    
+    	System.out.println("집가고싶다");
     }
 }
