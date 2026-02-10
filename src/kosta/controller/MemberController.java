@@ -5,4 +5,7 @@ public class MemberController {
 		System.out.println("member insert");
 	}
 
+	public void updateMember() {
+		System.out.println("member update");
+	}
 }
