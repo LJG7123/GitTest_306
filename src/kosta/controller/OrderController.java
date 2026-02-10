@@ -12,4 +12,8 @@ public class OrderController {
 	public void orderUpdate() {
 		System.out.println("order update");
 	}
+	
+	public void orderDelete() {
+		System.out.println("order delete");
+	}
 }
